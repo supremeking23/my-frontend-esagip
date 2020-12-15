@@ -14,8 +14,9 @@ function App() {
 					href="https://reactjs.org"
 					target="_blank"
 					rel="noopener noreferrer">
-					Ivan Christian Jay
+					Learn React
 				</a>
+				<h1>Dito nalang</h1>
 			</header>
 		</div>
 	);
