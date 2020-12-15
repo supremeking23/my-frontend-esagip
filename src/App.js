@@ -19,6 +19,7 @@ const Homepage = () => {
 	return (
 		<>
 			<h1>Homepage</h1>
+			<a href="/dashboard">dashboard</a>
 		</>
 	);
 };
